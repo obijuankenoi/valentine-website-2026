@@ -35,7 +35,7 @@ const CONFIG = {
         third: {
             text: "Julie, will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "Absolutely"                                                 // Text for "No" button
+            noBtn: "Absolutely!"                                                 // Text for "No" button
         }
     },
 
